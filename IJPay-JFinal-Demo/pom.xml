@@ -16,7 +16,7 @@
         <java.version>1.8</java.version>
 
         <ijapy.alipay.version>2.2.0</ijapy.alipay.version>
-        <jfinal.version>4.4</jfinal.version>
+        <jfinal.version>4.9.11</jfinal.version>
     </properties>
 
 
